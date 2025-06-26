@@ -50,7 +50,7 @@
         </ol>
       </li>
       <li>
-        Banco de Dados deverá haver uma nova página para cadastrar novos destinos (register.php). (2,5 pontos)
+        Página 4 - Banco de Dados deverá haver uma nova página para cadastrar novos destinos (register.php). (2,5 pontos)
         <ol>
           <li>Os únicos dados a serem inseridos são o nome do destino e sua categoria.</li>
           <li>A página deverá possuir a mesma estilização da página principal.</li>
