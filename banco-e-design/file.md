@@ -5,7 +5,7 @@
 </div><br>
 
 <div>
-    <h2><strong>RECUPERAÇÃO FINAL</strong></h2>
+    <h2><strong>RECUPERAÇÃO</strong></h2>
     <strong>DATA DE ENTREGA:</strong> Até 12:00 do dia 26/06.
 </div><br>
 
