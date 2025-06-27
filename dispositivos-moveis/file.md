@@ -5,12 +5,11 @@
 </div><br>
 
 <div>
-    <h2><strong>RECUPERAÇÃO PARALELA</strong></h2>
-    <strong>DATA DE ENTREGA:</strong> Até 12:00 do dia 26/06.
+    <h2><strong>RECUPERAÇÃO</strong></h2>
 </div><br>
 
 <div>
-    <p><b>Para avaliar o conhecimento do estudante na disciplina de Desenvolvimento de Aplicações para Dispositivos Móveis, é solicitada a criação algumas páginas utilizando o conteúdo revisado no bimestre. Abaixo haverá a lista de requisitos para cada página, sua estilização mínima e a pontuação de cada item:<br>
+    <p><b>Para avaliar o conhecimento do estudante na disciplina de Desenvolvimento de Aplicações para Dispositivos Móveis, é solicitada a criação algumas páginas utilizando o conteúdo revisado no semestre Abaixo haverá a lista de requisitos para cada página, sua estilização mínima e a pontuação de cada item:<br>
     <ol>
       <li>O projeto deverá ser criado baseando-se no seguinte tema: Agência de Viagens</li>
       <li>Criação do projeto utilizando Expo Go (projeto local no VSCode).</li>
